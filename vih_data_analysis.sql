@@ -2,7 +2,7 @@
 -- VIH DATA ANALYSIS PROJECT - SQL QUERIES
 -- Democratic Republic of Congo - HIV/AIDS Data Analysis
 -- ============================================================================
--- Author: Data Analyst Portfolio Project
+-- Author: Bienvenu Mwenyemali
 -- Date: February 2026
 -- Description: Comprehensive SQL queries for data extraction, analysis,
 --              and business intelligence reporting

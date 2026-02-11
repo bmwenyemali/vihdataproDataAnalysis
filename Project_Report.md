@@ -6,7 +6,7 @@
 
 **Project Report**
 
-**Author:** Data Analytics Portfolio  
+**Author:** Bienvenu Mwenyemali  
 **Date:** February 2026  
 **Tools Used:** Microsoft Excel, Python, SQL, Power BI
 
@@ -646,3 +646,5 @@ The analysis framework established in this project can be applied to future data
 ---
 
 _This report was generated as part of a data analytics portfolio project demonstrating proficiency in Excel, Python, SQL, and Power BI._
+---
+**Bienvenu Mwenyemali** - Data Analyst

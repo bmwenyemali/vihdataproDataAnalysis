@@ -11,7 +11,7 @@ Democratic Republic of Congo
 
 HIV/AIDS Data Analytics Portfolio
 
-Author: [Your Name]
+Author: Bienvenu Mwenyemali
 Date: February 2026
 
 ---
@@ -218,7 +218,7 @@ GitHub: github.com/bmwenyemali/vihdataproDataAnalysis
 
 **Questions?**
 
-Contact: [Your Email]
+Author: Bienvenu Mwenyemali
 GitHub: github.com/bmwenyemali/vihdataproDataAnalysis
 
 ---

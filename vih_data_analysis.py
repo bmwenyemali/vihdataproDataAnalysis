@@ -1,7 +1,7 @@
 """
 VIH Data Analysis Project - Democratic Republic of Congo
 =========================================================
-Author: Data Analyst Portfolio Project
+Author: Bienvenu Mwenyemali
 Date: February 2026
 Description: Comprehensive HIV/AIDS data analysis showcasing Python skills
              with data extraction, cleaning, exploration, visualization, and statistical analysis

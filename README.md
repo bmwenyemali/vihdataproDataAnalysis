@@ -162,7 +162,9 @@ python vih_data_analysis.py
 5. Non-normal distribution requiring non-parametric analysis
 6. Significant relationship between gender and province (Chi-square)
 
-## Contact
+## Author
+
+**Bienvenu Mwenyemali**
 
 - **GitHub:** [bmwenyemali](https://github.com/bmwenyemali)
 - **Repository:** [vihdataproDataAnalysis](https://github.com/bmwenyemali/vihdataproDataAnalysis)
