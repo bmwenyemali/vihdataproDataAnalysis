@@ -645,6 +645,6 @@ The analysis framework established in this project can be applied to future data
 
 ---
 
-_This report was generated as part of a data analytics portfolio project demonstrating proficiency in Excel, Python, SQL, and Power BI._
----
+## _This report was generated as part of a data analytics portfolio project demonstrating proficiency in Excel, Python, SQL, and Power BI._
+
 **Bienvenu Mwenyemali** - Data Analyst
